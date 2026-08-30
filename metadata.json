@@ -1,0 +1,7 @@
+{
+  "name": "SaveMe",
+  "description": "Emergency safety and SOS app with 3x power button trigger, community distress notifications with live location, emergency contact management with auto SMS/Call, and 999 hotline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
